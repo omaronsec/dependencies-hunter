@@ -5,3 +5,6 @@ __pycache__/
 /tmp_*
 /output/
 /packages/
+*.txt.bak
+file.txt
+url.txt
